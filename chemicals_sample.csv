@@ -1,0 +1,51 @@
+ChemicalID,ChemicalName,BatchID,Quantity,ExpiryDate,StorageCategory,UsageRate
+CHEM001,Acetone,B001,120,2026-05-15,Flammable,5
+CHEM002,Ethanol,B002,200,2026-08-20,Flammable,6
+CHEM003,Methanol,B003,180,2026-06-30,Flammable,5
+CHEM004,Sodium Chloride,B004,300,2027-01-10,General,2
+CHEM005,Hydrochloric Acid,B005,90,2025-12-15,Corrosive,4
+CHEM006,Sulfuric Acid,B006,70,2025-11-20,Corrosive,3
+CHEM007,Nitric Acid,B007,85,2025-10-10,Corrosive,3
+CHEM008,Potassium Nitrate,B008,140,2026-04-05,Oxidizer,4
+CHEM009,Sodium Hydroxide,B009,160,2026-02-12,Corrosive,3
+CHEM010,Ammonium Chloride,B010,110,2026-03-20,General,2
+CHEM011,Calcium Carbonate,B011,210,2027-05-18,General,2
+CHEM012,Benzene,B012,95,2025-09-25,Flammable,4
+CHEM013,Toluene,B013,130,2026-01-30,Flammable,5
+CHEM014,Phenol,B014,80,2025-10-15,Toxic,3
+CHEM015,Formaldehyde,B015,100,2025-11-05,Toxic,4
+CHEM016,Acetic Acid,B016,140,2026-02-28,Corrosive,5
+CHEM017,Hydrogen Peroxide,B017,90,2025-12-30,Oxidizer,3
+CHEM018,Magnesium Sulfate,B018,200,2027-02-11,General,2
+CHEM019,Sodium Bicarbonate,B019,220,2027-04-15,General,2
+CHEM020,Potassium Chloride,B020,210,2027-03-25,General,2
+CHEM021,Copper Sulfate,B021,150,2026-05-20,General,3
+CHEM022,Silver Nitrate,B022,60,2025-09-30,Oxidizer,2
+CHEM023,Lead Nitrate,B023,50,2025-08-15,Toxic,2
+CHEM024,Ammonia Solution,B024,140,2026-01-15,Corrosive,4
+CHEM025,Chloroform,B025,80,2025-10-22,Toxic,3
+CHEM026,Diethyl Ether,B026,70,2025-09-10,Flammable,3
+CHEM027,Hexane,B027,120,2026-04-12,Flammable,4
+CHEM028,Butanol,B028,130,2026-05-25,Flammable,4
+CHEM029,Isopropanol,B029,150,2026-03-19,Flammable,5
+CHEM030,Ethyl Acetate,B030,160,2026-02-15,Flammable,5
+CHEM031,Acetaldehyde,B031,75,2025-09-05,Flammable,3
+CHEM032,Aniline,B032,65,2025-10-30,Toxic,2
+CHEM033,Potassium Permanganate,B033,140,2026-06-10,Oxidizer,3
+CHEM034,Sodium Nitrite,B034,130,2026-04-28,Oxidizer,3
+CHEM035,Sodium Thiosulfate,B035,180,2027-03-01,General,2
+CHEM036,Ammonium Nitrate,B036,120,2026-02-18,Oxidizer,4
+CHEM037,Phosphoric Acid,B037,90,2025-12-12,Corrosive,3
+CHEM038,Boric Acid,B038,200,2027-06-10,General,2
+CHEM039,Lithium Chloride,B039,140,2026-05-10,General,3
+CHEM040,Zinc Sulfate,B040,160,2026-07-22,General,3
+CHEM041,Nickel Sulfate,B041,110,2026-08-10,Toxic,3
+CHEM042,Chromium Trioxide,B042,70,2025-11-30,Toxic,2
+CHEM043,Cobalt Chloride,B043,90,2026-01-05,Toxic,2
+CHEM044,Iron Chloride,B044,120,2026-02-25,Corrosive,3
+CHEM045,Aluminum Sulfate,B045,200,2027-01-15,General,2
+CHEM046,Barium Chloride,B046,80,2025-10-10,Toxic,2
+CHEM047,Strontium Nitrate,B047,90,2026-03-11,Oxidizer,3
+CHEM048,Cesium Chloride,B048,70,2026-04-17,General,2
+CHEM049,Potassium Iodide,B049,130,2026-05-08,General,3
+CHEM050,Sodium Iodide,B050,120,2026-05-20,General,3
