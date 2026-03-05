@@ -1,5 +1,8 @@
 # Chemical Laboratory Management Application
 
+<img width="1893" height="956" alt="image" src="https://github.com/user-attachments/assets/1a975e30-cc54-4a2d-bde5-3ef1ba2b2713" />
+
+
 # Algorithm Explanation
 
 This document describes the core algorithms used in the Chemical Laboratory Inventory Management System.
